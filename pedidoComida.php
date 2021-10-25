@@ -14,7 +14,7 @@ $productos = array(
     array("id"=>8,"nombre"=>"Migas extremañas","valor"=>6)
 
 );
-
+    echo "Productos";
     $cantidades = array();
     foreach($productos as $producto){
         
